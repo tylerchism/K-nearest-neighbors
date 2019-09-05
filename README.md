@@ -1,0 +1,1 @@
+Three different k nearest neighbors algorithms, one using sklearn with cancer data, one using a from scratch algo with generated data, and one using a from scratch algo with the same cancer data to demonstrate sklearn's faster run time for its k nearest neighbors algorithm, although the accuracy is the same.
